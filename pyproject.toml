@@ -1,0 +1,12 @@
+[project]
+name = "sql-data-insight"
+version = "0.1.0"
+description = "Dive into the world of SQL"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "seaborn>=0.13.2",
+    "xlrd>=2.0.2",
+]

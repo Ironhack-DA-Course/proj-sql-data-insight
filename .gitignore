@@ -1,0 +1,31 @@
+# Python-generated files (Byte-compiled / optimized / DLL files, ..)
+__pycache__/
+*.py[oc]
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info
+
+
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IPython Notebook
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# Virtual environments
+.venv
