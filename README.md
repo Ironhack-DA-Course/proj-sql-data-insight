@@ -53,18 +53,16 @@ To tackle early churn and grow long-term engagement, we propose a new **loyalty 
 
 ##  Database Schema & ERD
 
-We modeled a relational database with 3 key tables and derived tables connected via `Loyalty Number`.  
+We modeled a relational database with key tables and derived tables connected via `Loyalty Number`.  
 Refer to the ERD in `erd/airline_loyalty_ERD.png`. 
 
 1. `Customer_Loyalty_History`   
 2. `Customer_Flight_Activity`  
 3. `Calendar`
-4. `Customer` (*)
-5. `Address`  (*)  
-6. `Loyalty`  (*)
-7. `Loyalty Card` (*)
-
-(*): derived table
+4. `Customer` 
+5. `Address`    
+6. `Loyalty`  
+7. `Loyalty Card` 
 
 
 ## 🔄 ETL Process
