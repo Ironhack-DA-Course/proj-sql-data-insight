@@ -8,7 +8,7 @@ This project explores customer behavior in an airline loyalty program using rela
 - 🛠 GitHub Repository: [proj-sql-data-insight](https://github.com/Ironhack-DA-Course/proj-sql-data-insight)
 - 📋 Trello Board: [Project Tasks & Timeline](https://trello.com/invite/b/6862cd04ae8d9f159eaf33e0/ATTI18f392f79ff5bd69e44eaf450742b66229C7C8D7/airline-canadaroyalty) 
 - 🖼 ERD Diagram: `erd/airline_loyalty_ERD.png`
-- Presentation:[Air Canada Loyalty](https://docs.google.com/presentation/d/1Hqo7kqqzuMMcIIki_kKuiHLjNlK-uO-ejXNlIs0ey2Q/edit?usp=sharing) 
+- Presentation: [Air Canada Loyalty](https://docs.google.com/presentation/d/1Hqo7kqqzuMMcIIki_kKuiHLjNlK-uO-ejXNlIs0ey2Q/edit?usp=sharing) 
 
 ---
 
